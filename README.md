@@ -25,4 +25,4 @@ A compiled EXE can be found under `build/` in this repo.
 
 ## Screenshots
 ### MENU
-![MENU](img/menu.png)
+![MENU](img/menu.jpg)
